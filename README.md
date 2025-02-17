@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **nnovative full-stack and mobile application development projects, especially those integrating AI to solve real-world challenges**
+- 👯 I’m looking to collaborate on **Inovative full-stack and mobile application development projects, especially those integrating AI to solve real-world challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
